@@ -1,6 +1,8 @@
 # Prolog-HanoiTowers
 
-Inteligencia Artificial
+Universidad de las Américas Puebla
+
+Inteligencia Artificial (LIS3082)
 
 Frida Pérez Perfecto - 166520
 
